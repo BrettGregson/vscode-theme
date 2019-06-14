@@ -1,0 +1,43 @@
+{
+	"name": "NightBlue",
+	"displayName": "Night Blue",
+	"description": "A simple dark theme.",
+	"license": "MIT",
+	"version": "1.0.0",
+	"publisher": "nikitavoloboev",
+	"preview": true,
+	"engines": {
+		"vscode": "^1.26.1"
+	},
+	"keywords": [
+		"theme",
+		"minimal",
+		"night",
+		"dark",
+		"blue"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nikitavoloboev/night-blue-vscode.git"
+	},
+	"bugs": {
+		"url": "https://github.com/nikitavoloboev/night-blue-vscode/issues"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Night Blue",
+				"uiTheme": "vs-dark",
+				"path": "./night-blue-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "469c8f7a-7043-42cf-90b6-767a00634799",
+		"publisherId": "26881d9b-e183-44f5-8f9b-31fec3875d34",
+		"publisherDisplayName": "Nikita Voloboev"
+	}
+}
