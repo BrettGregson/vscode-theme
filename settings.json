@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Night Blue",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "Monokai Pro (Filter Machine) Monochrome Icons",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.rulers": [80],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#ff440042"
+    },
+    "editor.renderWhitespace": "all",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
+    "html.autoClosingTags": false
+}
