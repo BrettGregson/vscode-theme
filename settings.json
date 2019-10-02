@@ -1,18 +1,32 @@
 {
     "workbench.colorTheme": "Night Blue",
     "workbench.startupEditor": "newUntitledFile",
-    "workbench.iconTheme": "Monokai Pro (Filter Machine) Monochrome Icons",
     "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
+        "editor.defaultFormatter": "vscode.typescript-language-features"
     },
     "editor.rulers": [80],
     "workbench.colorCustomizations": {
-        "editorRuler.foreground": "#ff440042"
+        "editorRuler.foreground": "#ff440042",
+        "sideBar.border": "#FFFFFF10",
+        "editorLineNumber.foreground": "#FFFFFF20",
+        "editor.lineHighlightBackground": "#ff440022",
+        "editorGroupHeader.tabsBorder": "#FFFFFF00",
+        "tab.inactiveBackground": "#FFFFFF10",
+        "editorBracketMatch.background":"#FFFFFF20",
+        "editorBracketMatch.border":"#FFFFFF20",
+        "editorIndentGuide.background": "#FFFFFF10",
+        "editorIndentGuide.activeBackground": "#FFFFFF20",
+        "editorWhitespace.foreground": "#FFFFFF20",
     },
     "editor.renderWhitespace": "all",
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
     "editor.autoClosingBrackets": "never",
     "editor.autoClosingQuotes": "never",
-    "html.autoClosingTags": false
+    "html.autoClosingTags": false,
+    "editor.fontSize": 13,
+    "window.zoomLevel": 0,
+    "[plaintext]": {},
+    "editor.tabSize": 2,
+    "explorer.autoReveal": false
 }
