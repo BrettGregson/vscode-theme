@@ -28,5 +28,6 @@
     "window.zoomLevel": 0,
     "[plaintext]": {},
     "editor.tabSize": 2,
-    "explorer.autoReveal": false
+    "explorer.autoReveal": false,
+    "workbench.list.openMode": "doubleClick",
 }
